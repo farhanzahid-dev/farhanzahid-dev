@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on:<br>Improving my Vibely chat app using Flutter & Firebase, focusing on real-time messaging and performance.<br><br>👯 I’m looking to collaborate on:<br>Mobile and web apps, especially chat systems and ride-hailing solutions.<br><br>🤝 I’m looking for help with:<br>Advanced Flutter development, scalable Firebase architecture, and improving backend efficiency for production-level apps.<br><br>🌱 I’m currently learning:<br>Advanced JavaScript concepts, Flutter optimization, and data analysis with Power BI & SQL.<br><br>⚡ Fun fact:<br>I’ve built a real-time chat app (Vibely) and a ride-hailing system (LGU-Ride) — I enjoy solving real-world problems through code and turning ideas into functional products.<br>
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-farhan-zahid-471a93373) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farhanzahid.dev@gmail.com) 
